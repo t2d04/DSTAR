@@ -1,3 +1,9 @@
+This repository is a fork of DSTAR from Seoin Back. (https://github.com/SeoinBack/DSTAR)
+This repository is currently under development due to an issue where the finalized models cannot be exported as pickle files.
+
+In addition to the original models in DSTAR, I have integrated DNN, LightGBM, and CatBoost models. Furthermore, 247 simple ensemble models, combining GBR, KRR, ELN, SVR, XGBoost, DNN, LightGBM, and CatBoost, have been added for enhanced performance evaluation.
+
+
 # DSTAR : **D**ft & STructure free Active motif based Representation
 
 This repository contains codes and notebooks used to create results in our paper.
